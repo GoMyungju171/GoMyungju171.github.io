@@ -1,0 +1,20 @@
+
+		.wrap {width: 100%;}
+		#welcome { padding-left: 400px; padding-top: 300px;}
+		#login_1 {position: absolute; right: 100px; top: 0px; line-height: 60px; }
+		#signup_1 {position: absolute; right: 40px; top: 0px; line-height: 60px; }
+		#menu1 ul li { float: left;  width: 25%; height: 120px; text-align: center; padding-top: 80px;}
+		#menu1 ul li p {padding-left: 160px; padding-top: 20px;}
+		#copyright{padding-left: 500px; }
+		#total h1 {padding-left: 500px; }
+		div #total {width: 100%;}
+		#total #left {width: 50%;  float: left;}
+		#total #right {width: 50%; float: right;}
+		#ttop {width: 100%; }
+		#identify { padding-top: 300px; }
+		div #total {width: 100%;}
+		div #left {width: 50%;  float: left;}
+		div #right {width: 50%; float: right;}
+		#movielist li p {padding-left: 0px;}
+		#welcome img {padding-top: 30px;}
+		

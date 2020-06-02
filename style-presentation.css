@@ -1,0 +1,25 @@
+#welcome { color: #819FF7; font-family: 'Indie Flower', cursive;}
+		#menu1 ul li img:hover + p { display: block; }
+		#menu1 ul li img:hover { display: none;}
+		#menu1 p {display: none; padding-left: 160px; padding-top: 20px; color: #819FF7; font-family: 'Indie Flower', cursive;}
+		#menu1 a {text-decoration: none;}
+		.mid img {padding-left: 70px; position: relative; top: 5px;}
+		#SNS img {padding-right: 20px; }
+		.movielist h1 {color: #A901DB; padding-left: 50px;}
+		#left img {padding-left: 20px;}
+		#identify {padding-top: 300px; }
+		#total #right {color: #A4A4A4;}
+		#total #right b {color: #585858;}
+		#total #right p {color: #819FF7; text-align: center; font-family: 'Yeon Sung', cursive; font-size: 25px;}
+		#total h1 {padding-left: 450px; color: #5882FA; font-family: 'Indie Flower', cursive;}
+		.movielist h1 {padding-left: 500px; font-family: 'Indie Flower', cursive; font-size: 60px; color: #819FF7;}
+		.movielist h3 {padding-left: 50px; }
+		.movielist ul li { #088A68; width:200px; height:100px; display:inline-block;} 
+		.movielist p {padding-left: 500px; }
+		.movielist ul li b {color: #F78181;}
+		#total #right i {color: #819FF7;}
+		#ttop option {text-align: center;}
+		#ttop fieldset {text-align: center;}
+		#menu1 ul li {list-style-type: none;}
+		.bottom_1 {color: grey; padding-left: 100px; font-family: 'Indie Flower', cursive;}
+		tr p {font-family: 'Indie Flower', cursive; font-size: 20px;}
